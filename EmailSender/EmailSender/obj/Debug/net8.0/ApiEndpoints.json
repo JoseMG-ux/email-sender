@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "EmailSender.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataEmail",
+        "Type": "EmailSender.Aplicacion.SendEmail\u002BExecute",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EmailSender.Aplicacion.SendEmail\u002BResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

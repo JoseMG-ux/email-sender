@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|c:\\users\\jmoreno\\source\\repos\\emailsender\\emailsender\\aplication\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\aplication\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|c:\\users\\jmoreno\\source\\repos\\emailsender\\emailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|c:\\users\\jmoreno\\source\\repos\\emailsender\\emailsender\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC57832-6E73-41A5-ABDC-E92B70D513A2}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "EmailSender\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "EmailSender\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:12:39.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Aplication\\SendEmail.cs",
+              "RelativeDocumentMoniker": "EmailSender\\Aplication\\SendEmail.cs",
+              "ToolTip": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Aplication\\SendEmail.cs",
+              "RelativeToolTip": "EmailSender\\Aplication\\SendEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:12:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Program.cs",
+              "RelativeDocumentMoniker": "EmailSender\\Program.cs",
+              "ToolTip": "C:\\Users\\jmoreno\\source\\repos\\EmailSender\\EmailSender\\Program.cs",
+              "RelativeToolTip": "EmailSender\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:07:50.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
